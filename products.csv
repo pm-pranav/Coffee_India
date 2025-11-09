@@ -1,0 +1,13 @@
+product_id,product_name,category,size_ml,unit_price
+1,Espresso Shot,espresso,60,120
+2,Cappuccino,latte,180,180
+3,Café Latte,latte,200,200
+4,Cold Brew,filter,300,250
+5,Instant Coffee Sachet,instant,100,80
+6,Iced Americano,espresso,250,220
+7,Mocha,latte,220,210
+8,Filter Coffee,filter,150,150
+9,Affogato,espresso,120,230
+10,Instant Strong Coffee,instant,100,90
+11,Flat White,latte,170,190
+12,Caramel Macchiato,latte,220,240

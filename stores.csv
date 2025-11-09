@@ -1,0 +1,147 @@
+store_id,store_name,city_id,opening_date,store_type
+1,CCD Arora,1,2019-09-05,mall
+2,Coffee Culture Choudhury,1,2017-05-17,mall
+3,Blue Tokai Sandhu,1,2016-06-24,mall
+4,CCD Kakar,1,2015-07-17,cafe
+5,The Brew Room Batra,1,2018-09-20,mall
+6,Bean Jar Krishnan,1,2015-06-14,street
+7,Starbucks Chaudhary,1,2022-02-19,mall
+8,CCD Kapur,1,2019-09-25,mall
+9,Blue Tokai Sibal,1,2017-09-19,cafe
+10,Bean Jar Garde,1,2019-09-23,mall
+11,The Brew Room Chokshi,1,2020-09-22,mall
+12,The Brew Room Batra,2,2021-06-18,street
+13,Blue Tokai Gola,2,2020-11-07,street
+14,Bean Jar Deo,2,2015-09-27,street
+15,Starbucks Loyal,2,2017-02-14,mall
+16,Zoho Cafe Baral,2,2019-12-27,street
+17,Coffee Culture Wali,2,2021-02-25,mall
+18,Blue Tokai Char,2,2016-03-08,street
+19,CCD Sahota,2,2018-11-17,mall
+20,Zoho Cafe Baral,2,2018-12-17,mall
+21,Third Wave Gupta,2,2019-09-24,street
+22,Bean Jar Ravi,2,2021-03-16,street
+23,Starbucks Goyal,3,2021-01-16,cafe
+24,Cafe Coffee Day Sampath,3,2019-07-17,cafe
+25,CCD Ramanathan,3,2017-11-29,street
+26,CCD Sethi,3,2019-03-02,cafe
+27,Coffee Culture Kashyap,3,2021-06-15,cafe
+28,Bean Jar Reddy,3,2018-09-26,street
+29,Bean Jar Upadhyay,3,2015-12-14,mall
+30,CCD Tara,3,2015-07-19,mall
+31,Blue Tokai Iyer,3,2019-07-22,street
+32,CCD Cherian,3,2020-05-09,mall
+33,CCD Sagar,3,2023-06-30,street
+34,Coffee Culture Wagle,3,2022-10-22,street
+35,Third Wave Deo,4,2017-05-17,mall
+36,Third Wave Sharma,4,2019-06-21,street
+37,Blue Tokai Kala,4,2021-10-17,cafe
+38,Coffee Culture Choudhary,4,2017-05-09,cafe
+39,CCD Koshy,4,2016-07-18,cafe
+40,Barista Vasa,4,2016-11-12,cafe
+41,Blue Tokai Ratti,4,2017-09-21,mall
+42,Cafe Coffee Day Raju,4,2016-01-30,street
+43,Coffee Culture Halder,4,2022-12-18,cafe
+44,The Brew Room Dass,4,2015-03-13,mall
+45,Third Wave Sanghvi,4,2019-07-16,mall
+46,Starbucks Bhalla,5,2019-12-29,street
+47,Zoho Cafe Brar,5,2022-09-20,street
+48,CCD Sen,5,2019-06-25,mall
+49,Bean Jar Singh,5,2018-01-15,cafe
+50,Third Wave Bera,5,2020-01-29,mall
+51,Cafe Coffee Day Ramanathan,6,2018-05-20,street
+52,Cafe Coffee Day Grover,6,2017-09-30,mall
+53,Coffee Culture Sood,6,2015-01-04,mall
+54,Blue Tokai Edwin,6,2023-04-25,cafe
+55,The Brew Room Bhalla,6,2021-03-05,cafe
+56,Coffee Culture Dar,6,2015-12-26,cafe
+57,Bean Jar Vyas,6,2016-05-04,street
+58,Bean Jar Setty,6,2023-04-08,street
+59,Third Wave Sidhu,6,2017-02-20,mall
+60,The Brew Room Sahni,7,2023-02-01,street
+61,CCD Butala,7,2019-07-06,mall
+62,CCD Viswanathan,7,2022-03-14,mall
+63,Barista Madan,7,2018-06-03,cafe
+64,Zoho Cafe Iyengar,7,2021-05-09,cafe
+65,CCD Yogi,7,2023-10-22,street
+66,Zoho Cafe Bhasin,7,2019-03-21,cafe
+67,The Brew Room Balay,8,2020-10-01,street
+68,The Brew Room Raja,8,2018-11-30,mall
+69,CCD Choudhary,8,2015-02-14,cafe
+70,The Brew Room Sathe,8,2016-01-01,street
+71,Third Wave Bandi,8,2015-07-15,mall
+72,Coffee Culture Banik,8,2023-09-30,street
+73,Barista Dewan,8,2023-04-05,street
+74,Starbucks Madan,8,2017-04-02,cafe
+75,Coffee Culture Mani,8,2023-01-16,cafe
+76,Barista Srinivasan,9,2023-01-17,cafe
+77,CCD Chandran,9,2016-08-09,cafe
+78,Coffee Culture Sahni,9,2022-05-02,cafe
+79,The Brew Room Kakar,9,2021-12-29,cafe
+80,Blue Tokai Venkatesh,9,2015-12-03,mall
+81,Third Wave Balasubramanian,9,2021-11-06,mall
+82,The Brew Room Sura,9,2016-11-09,cafe
+83,Starbucks Char,9,2018-03-27,cafe
+84,Third Wave Kapur,9,2017-05-21,street
+85,Starbucks Chand,9,2019-09-27,mall
+86,Coffee Culture Dash,10,2016-04-13,mall
+87,Starbucks Swamy,10,2016-08-31,mall
+88,Bean Jar Sachdev,10,2015-04-02,mall
+89,CCD Shetty,10,2019-01-08,cafe
+90,Cafe Coffee Day Jani,10,2023-04-06,mall
+91,The Brew Room Chhabra,10,2021-10-27,mall
+92,Cafe Coffee Day Butala,11,2021-06-12,cafe
+93,Barista Hayer,11,2019-07-06,street
+94,The Brew Room Dhar,11,2022-03-13,cafe
+95,Zoho Cafe Sahota,11,2023-04-13,mall
+96,The Brew Room Chandran,11,2020-01-18,cafe
+97,Blue Tokai Balakrishnan,12,2016-01-14,cafe
+98,Coffee Culture Balakrishnan,12,2015-11-08,street
+99,Third Wave Khare,12,2023-07-22,street
+100,The Brew Room Brar,12,2015-12-20,street
+101,CCD Baria,12,2018-02-28,mall
+102,Blue Tokai Rajan,12,2016-02-27,mall
+103,Third Wave Jaggi,12,2017-01-14,mall
+104,Bean Jar Dasgupta,12,2015-09-04,cafe
+105,Blue Tokai Baria,12,2022-02-17,cafe
+106,Starbucks Mandal,13,2023-11-23,mall
+107,Starbucks De,13,2018-06-23,mall
+108,CCD Dar,13,2019-07-09,mall
+109,Third Wave Bhatti,13,2020-02-08,mall
+110,Blue Tokai Dugar,14,2016-03-26,street
+111,Cafe Coffee Day Karnik,14,2016-09-13,mall
+112,The Brew Room Luthra,14,2018-08-17,mall
+113,Bean Jar Deo,14,2017-04-03,cafe
+114,Cafe Coffee Day Wadhwa,14,2016-03-03,mall
+115,Cafe Coffee Day Goyal,14,2019-11-06,street
+116,Blue Tokai Kanda,14,2020-02-23,mall
+117,Zoho Cafe Swamy,15,2015-02-18,street
+118,Zoho Cafe Doctor,15,2016-10-05,street
+119,Cafe Coffee Day Deo,15,2016-12-18,cafe
+120,CCD Sharaf,16,2017-08-23,mall
+121,Zoho Cafe Dhaliwal,16,2018-08-01,cafe
+122,Third Wave Chaudry,16,2019-06-29,mall
+123,Blue Tokai Konda,17,2019-04-10,mall
+124,The Brew Room Batra,17,2022-03-17,street
+125,Barista Bains,17,2015-01-23,street
+126,Barista Solanki,17,2017-03-23,street
+127,Blue Tokai Buch,18,2022-07-08,mall
+128,Cafe Coffee Day Sastry,18,2022-04-11,cafe
+129,CCD Agrawal,18,2016-11-26,mall
+130,The Brew Room Wagle,18,2017-07-15,mall
+131,CCD Badami,18,2021-04-13,mall
+132,Barista Majumdar,18,2017-07-09,street
+133,Cafe Coffee Day Bhatt,19,2015-09-17,mall
+134,Zoho Cafe Gopal,19,2015-09-05,mall
+135,Barista Cheema,19,2019-03-31,street
+136,Starbucks Goel,19,2021-11-30,street
+137,Coffee Culture Shere,19,2017-08-18,street
+138,Coffee Culture Venkatesh,19,2017-10-06,street
+139,The Brew Room Wadhwa,20,2022-01-05,cafe
+140,Cafe Coffee Day Chakraborty,20,2020-08-26,mall
+141,Blue Tokai Suresh,20,2019-03-23,street
+142,Blue Tokai Buch,20,2016-11-02,mall
+143,Bean Jar Viswanathan,20,2015-08-29,cafe
+144,The Brew Room Choudhry,20,2018-05-25,mall
+145,Third Wave Gill,20,2020-03-11,mall
+146,Starbucks Choudhury,20,2015-05-28,cafe
